@@ -42,8 +42,9 @@ const Footer = () => {
 
       <div className='border-t-2 flex justify-between items-center  px-10 py-2 text-center md:text-left'>
         <p>2025 furino. All rights reserved</p>
-        <p>Develop By Muhammad Farhan</p>
-        <a href='https://github.com/FarhanCodesLife/'>Github.com/FarhanCodesLife</a>
+        <p>Develop By Erum Aslam</p>
+        <a href='https://github.com/Erumaslam713/'>Github.com/Erum Aslam</a>
+        <a href='https://www.linkedin.com/in/erum-aslam-6294662b5/'>LinkedIn.com/Erum Aslam</a>
       </div>
     </footer>
   )
